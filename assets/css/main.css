@@ -881,8 +881,6 @@ section,
 --------------------------------------------------------------*/
 .features .nav-tabs {
   border: 0;
-  position: relative;
-  left: 12pc;
 }
 .fontTanggal {
   font-size: 10pc;
